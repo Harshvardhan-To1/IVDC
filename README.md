@@ -8,6 +8,4 @@ For the theory part I have used google to research and chatgpt for refrence purp
 
 https://docs.google.com/document/d/1hzRnZPmlnUljEmDOjtpc8bMSWsx0SwdkkYjQRz9iJRg/edit?usp=sharing
 
-Coming to code part, I have initially performed some image processing , using PIL library's Image function, after that I tried out basic CNN models but due to 
-
-unsatisfctory accuracy, I also tried models like MobileNetV2 and Efficients Net BO.
+Coming to code part, I have initially performed some image processing , using PIL library's Image function, after that I tried out basic CNN models but due to unsatisfctory accuracy, I also tried models like MobileNetV2 and Efficients Net BO.
